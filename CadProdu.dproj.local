@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/22 01:21:19.000.513,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 01:21:53.000.200,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 01:22:23.000.947,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 02:10:54.000.404,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 18:20:46.000.422,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 20:48:24.000.675,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 22:11:33.000.329,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/14 12:25:17.000.468,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/15 01:41:38.000.511,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/25 18:56:41.000.957,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/28 22:18:21.000.321,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/29 20:58:49.000.047,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/29 22:20:34.000.528,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/30 03:12:42.000.593,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/03 09:33:27.000.510,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/09 17:54:12.000.799,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/09 17:54:41.000.599,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/10 12:42:07.000.978,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/14 21:27:44.000.508,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/29 20:34:02.000.992,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 10:59:37.000.390,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/20 01:11:23.000.609,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/20 01:14:12.000.755,D:\Teste_Selecao\uPrincipal.dfm=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/10/20 01:14:12.000.755,D:\Teste_Selecao\uPrincipal.pas=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/20 01:14:32.000.675,D:\Teste_Selecao\CadProdu.dproj=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/10/20 01:23:40.000.055,=D:\Teste_Selecao\Unit2.pas</Transaction>
+    <Transaction>2020/10/20 01:24:05.000.212,=D:\Teste_Selecao\Unit1.pas</Transaction>
+    <Transaction>2020/10/20 01:24:50.000.710,D:\Teste_Selecao\uDm.dfm=D:\Teste_Selecao\Unit1.dfm</Transaction>
+    <Transaction>2020/10/20 01:24:50.000.710,D:\Teste_Selecao\uDm.pas=D:\Teste_Selecao\Unit1.pas</Transaction>
+    <Transaction>2020/10/20 01:55:20.000.724,=D:\Teste_Selecao\Unit2.pas</Transaction>
+    <Transaction>2020/10/20 01:55:45.000.211,D:\Teste_Selecao\Unit2.dfm=D:\Teste_Selecao\uFrmCadPro.dfm</Transaction>
+    <Transaction>2020/10/20 01:55:45.000.211,D:\Teste_Selecao\Unit2.pas=D:\Teste_Selecao\uFrmCadPro.pas</Transaction>
+    <Transaction>2020/10/20 18:49:46.000.851,=D:\Teste_Selecao\uFrmLogin.pas</Transaction>
+    <Transaction>2020/10/20 22:33:55.000.349,D:\Teste_Selecao\uFrmConsulta.dfm=D:\Teste_Selecao\uFrmCadPro.dfm</Transaction>
+    <Transaction>2020/10/20 22:33:55.000.349,D:\Teste_Selecao\uFrmConsulta.pas=D:\Teste_Selecao\uFrmCadPro.pas</Transaction>
+    <Transaction>2020/10/20 22:35:06.000.459,D:\Teste_Selecao\uFrmCadPro.pas=D:\Teste_Selecao\uFrmConsulta.pas</Transaction>
+    <Transaction>2020/10/20 22:35:06.000.459,D:\Teste_Selecao\uFrmCadPro.dfm=D:\Teste_Selecao\uFrmConsulta.dfm</Transaction>
+    <Transaction>2020/10/20 22:39:20.000.381,=D:\Teste_Selecao\Unit1.pas</Transaction>
+    <Transaction>2020/10/20 22:41:26.000.946,D:\Teste_Selecao\Unit1.dfm=D:\Teste_Selecao\UFrmTipo.dfm</Transaction>
+    <Transaction>2020/10/20 22:41:26.000.946,D:\Teste_Selecao\Unit1.pas=D:\Teste_Selecao\UFrmTipo.pas</Transaction>
+    <Transaction>2020/10/20 22:41:43.000.825,=D:\Teste_Selecao\Unit2.pas</Transaction>
+    <Transaction>2020/10/20 22:44:34.000.526,D:\Teste_Selecao\Unit2.pas=D:\Teste_Selecao\uFrmConsulta.pas</Transaction>
+    <Transaction>2020/10/20 22:44:34.000.526,D:\Teste_Selecao\Unit2.dfm=D:\Teste_Selecao\uFrmConsulta.dfm</Transaction>
+    <Transaction>2020/10/20 23:00:46.000.654,D:\Teste_Selecao\uFrmConsulta.pas=D:\Teste_Selecao\uFrmPesquisa.pas</Transaction>
+    <Transaction>2020/10/20 23:00:46.000.654,D:\Teste_Selecao\uFrmConsulta.dfm=D:\Teste_Selecao\uFrmPesquisa.dfm</Transaction>
+    <Transaction>2020/10/22 13:56:46.000.685,=D:\Teste_Selecao\Unit1.pas</Transaction>
+    <Transaction>2020/10/22 13:57:35.000.941,D:\Teste_Selecao\uFrmPesquisaTipo.dfm=D:\Teste_Selecao\Unit1.dfm</Transaction>
+    <Transaction>2020/10/22 13:57:35.000.941,D:\Teste_Selecao\uFrmPesquisaTipo.pas=D:\Teste_Selecao\Unit1.pas</Transaction>
+    <Transaction>2020/10/23 11:23:58.000.297,=F:\Downloads\Teste_Selecao_Florisvaldo\Teste_Selecao\Unit1.pas</Transaction>
+    <Transaction>2020/10/23 11:24:08.000.187,F:\Downloads\Teste_Selecao_Florisvaldo\Teste_Selecao\Unit1.pas=F:\Downloads\Teste_Selecao_Florisvaldo\Teste_Selecao\uFuncoes.pas</Transaction>
+    <Transaction>2020/10/23 11:42:16.000.369,F:\Downloads\Teste_Selecao_Florisvaldo\Teste_Selecao\uFuncoes.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/22 01:21:19.000.513,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 01:21:53.000.200,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 01:22:23.000.947,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 02:10:54.000.404,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 18:20:46.000.422,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 20:48:24.000.675,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/22 22:11:33.000.329,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/14 12:25:17.000.468,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/15 01:41:38.000.511,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/23 14:23:38.000.876,=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/23 14:28:34.000.579,E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\frmPrincipal.pas=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/23 14:28:34.000.579,E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\frmPrincipal.dfm=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/05/23 14:28:53.000.552,E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\FBTechDelivery.dproj=C:\Users\INOVA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/05/23 18:49:25.000.507,=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uBotDAO.pas</Transaction>
+    <Transaction>2020/05/23 18:50:09.000.647,=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uBotConversa.pas</Transaction>
+    <Transaction>2020/05/23 18:50:09.000.596,=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uBlackList.pas</Transaction>
+    <Transaction>2020/05/23 18:50:09.000.950,=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uPedidos.pas</Transaction>
+    <Transaction>2020/05/23 18:50:09.000.674,=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uBotGestor.pas</Transaction>
+    <Transaction>2020/05/23 18:50:09.000.810,=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uItemPedido.pas</Transaction>
+    <Transaction>2020/05/23 19:20:11.000.695,E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\frmPrincipal.dfm=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\u_Principal.dfm</Transaction>
+    <Transaction>2020/05/23 19:20:11.000.695,E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\frmPrincipal.pas=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\u_Principal.pas</Transaction>
+    <Transaction>2020/06/01 01:03:37.000.209,=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uPedidos.pas</Transaction>
+    <Transaction>2020/06/05 10:28:47.000.021,=C:\Componentes\Projeto-TInject\trunk\Source\Model\uInjectDecryptFile.pas</Transaction>
+    <Transaction>2020/07/01 17:13:19.000.582,E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uPedidos.dfm=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uLogAtendimento.dfm</Transaction>
+    <Transaction>2020/07/01 17:13:19.000.582,E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uPedidos.pas=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uLogAtendimento.pas</Transaction>
+    <Transaction>2020/07/01 17:49:01.000.931,E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uLogAtendimento.pas=</Transaction>
+    <Transaction>2020/07/01 17:54:42.000.698,=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\uLogAtendimento.pas</Transaction>
+    <Transaction>2020/10/20 00:53:50.000.404,D:\Teste_Selecao\CadPro.dproj=E:\PROJETOS\CLIENTES\KIHEI\KIHEI DELIVERY\FBTechDelivery.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
